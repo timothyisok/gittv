@@ -38,8 +38,12 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 
 #EXTINF:-1 group-title="移动线路",CCTV-1综合
 http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 group-title="移动线路",CCTV-2财经
+http://39.134.66.110/PLTV/88888888/224/3221225599/index.m3u8
 #EXTINF:-1 group-title="移动线路",CCTV-3综艺
 http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 group-title="移动线路",CCTV-4中文国际
+http://39.134.66.110/PLTV/88888888/224/3221226092/index.m3u8
 #EXTINF:-1 group-title="移动线路",CCTV-5体育
 http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
 #EXTINF:-1 group-title="移动线路",CCTV-5+赛事
@@ -54,7 +58,29 @@ http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8
 http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 group-title="移动线路",CCTV-10科教
 http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 group-title="移动线路",CCTV-11戏曲
+http://39.134.66.110/PLTV/88888888/224/3221225517/index.m3u8
 #EXTINF:-1 group-title="移动线路",CCTV-12社会与法
 http://39.134.66.110/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="移动线路",CCTV-13新闻
+http://39.134.66.110/PLTV/88888888/224/3221226077/index.m3u8
 #EXTINF:-1 group-title="移动线路",CCTV-14少儿
 http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="移动线路",CCTV-15音乐
+http://39.134.66.110/PLTV/88888888/224/3221225513/index.m3u8
+#EXTINF:-1 group-title="移动线路",CCTV-16奥林匹克
+http://39.134.66.110/PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:-1 group-title="移动线路",CCTV-17农业农村
+http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
+
+#EXTINF:-1 group-title="移动线路",CETV-1
+http://39.134.66.110/PLTV/88888888/224/3221225563/index.m3u8
+#EXTINF:-1 group-title="移动线路",CETV-2
+http://39.134.66.110/PLTV/88888888/224/3221226064/index.m3u8
+#EXTINF:-1 group-title="移动线路",CETV-4
+http://39.134.66.110/PLTV/88888888/224/3221225750/index.m3u8
+
+#EXTINF:-1 group-title="移动线路",CGTN-Documentary
+http://39.134.66.110/PLTV/88888888/224/3221225509/index.m3u8
+#EXTINF:-1 group-title="移动线路",CGTN
+http://39.134.66.110/PLTV/88888888/224/3221225510/index.m3u8
