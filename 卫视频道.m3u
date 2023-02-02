@@ -1,4 +1,39 @@
 #EXTM3U
+#EXTINF:-1 group-title="",东南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+#EXTINF:-1 group-title="",北京卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="",广东卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
+#EXTINF:-1 group-title="",江西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+#EXTINF:-1 group-title="",山东卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+#EXTINF:-1 group-title="",东方卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="",海南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
+#EXTINF:-1 group-title="",湖北卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 group-title="",湖南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 group-title="",辽宁卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="",深圳卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
+#EXTINF:-1 group-title="",浙江卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
+#EXTINF:-1 group-title="",内蒙卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
+#EXTINF:-1 group-title="",山西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
+#EXTINF:-1 group-title="",陕西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+#EXTINF:-1 group-title="",西藏卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1 group-title="",新疆卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
+
 #EXTINF:-1 group-title="移动线路",河北卫视
 http://39.134.66.110/PLTV/88888888/224/3221225961/index.m3u8
 #EXTINF:-1 group-title="移动线路",山西卫视

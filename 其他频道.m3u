@@ -1,4 +1,15 @@
 #EXTM3U
+#EXTINF:-1 group-title="",上海纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="",北京纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
+#EXTINF:-1 group-title="",金鹰卡通
+http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
+#EXTINF:-1 group-title="",超级电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1 group-title="",纯享4K
+http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+
 #EXTINF:-1 group-title="移动线路",未知
 http://39.134.66.110/PLTV/88888888/224/3221225521/index.m3u8
 #EXTINF:-1 group-title="移动线路",古装剧场
