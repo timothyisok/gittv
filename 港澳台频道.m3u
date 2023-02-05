@@ -5,3 +5,6 @@ http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 http://gxfrg007.8800.org:8282/tsfile/live/1064_1.m3u8
 #EXTINF:-1 group-title="",凤凰香港台
 http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
+
+#EXTINF:-1 group-title="",TVB翡翠台
+http://2022.stream-link.org/playlist/tvb_jade
