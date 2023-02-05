@@ -8,3 +8,8 @@ http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
 
 #EXTINF:-1 group-title="",TVB翡翠台
 http://23.237.10.66:16106
+#EXTINF:-1 group-title="",Astro华丽台
+http://23.237.10.66:16410
+
+#EXTINF:-1 group-title="",TVB翡翠台
+https://tvp22.sky4k.top/index1.php
