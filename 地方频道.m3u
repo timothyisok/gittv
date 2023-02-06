@@ -1,3 +1,75 @@
 #EXTM3U
+#EXTINF:-1 group-title="",上海纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="",北京纪实
+http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
+#EXTINF:-1 group-title="",金鹰卡通
+http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
+
+#EXTINF:-1 group-title="移动线路",黑莓动画
+http://39.134.66.110/PLTV/88888888/224/3221225529/index.m3u8
+#EXTINF:-1 group-title="移动线路",哈哈炫动
+http://39.134.66.110/PLTV/88888888/224/3221225534/index.m3u8
+#EXTINF:-1 group-title="移动线路",优漫卡通
+http://39.134.66.110/PLTV/88888888/224/3221225556/index.m3u8
+#EXTINF:-1 group-title="移动线路",金鹰卡通
+http://39.134.66.110/PLTV/88888888/224/3221225561/index.m3u8
+#EXTINF:-1 group-title="移动线路",卡酷少儿
+http://39.134.66.110/PLTV/88888888/224/3221225562/index.m3u8
+#EXTINF:-1 group-title="移动线路",北京纪实
+http://39.134.66.110/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 group-title="移动线路",上海纪实
+http://39.134.66.110/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 group-title="移动线路",黑莓电影
+http://39.134.66.110/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 group-title="移动线路",哈尔滨新闻综合
+http://39.134.66.110/PLTV/88888888/224/3221225684/index.m3u8
+#EXTINF:-1 group-title="移动线路",哈尔滨都市资讯
+http://39.134.66.110/PLTV/88888888/224/3221225697/index.m3u8
+#EXTINF:-1 group-title="移动线路",哈尔滨生活
+http://39.134.66.110/PLTV/88888888/224/3221225698/index.m3u8
+#EXTINF:-1 group-title="移动线路",哈尔滨影视
+http://39.134.66.110/PLTV/88888888/224/3221225700/index.m3u8
+#EXTINF:-1 group-title="移动线路",求索纪录
+http://39.134.66.110/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 group-title="移动线路",大庆公共
+http://39.134.66.110/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="移动线路",大庆新闻综合
+http://39.134.66.110/PLTV/88888888/224/3221225736/index.m3u8
+#EXTINF:-1 group-title="移动线路",漠河综合
+http://39.134.66.110/PLTV/88888888/224/3221225879/index.m3u8
+#EXTINF:-1 group-title="移动线路",黑龙江文体
+http://39.134.66.110/PLTV/88888888/224/3221225965/index.m3u8
+#EXTINF:-1 group-title="移动线路",黑龙江新闻法治
+http://39.134.66.110/PLTV/88888888/224/3221225967/index.m3u8
+#EXTINF:-1 group-title="移动线路",黑龙江都市
+http://39.134.66.110/PLTV/88888888/224/3221225969/index.m3u8
+#EXTINF:-1 group-title="移动线路",黑龙江影视
+http://39.134.66.110/PLTV/88888888/224/3221225973/index.m3u8
+#EXTINF:-1 group-title="移动线路",黑龙江少儿
+http://39.134.66.110/PLTV/88888888/224/3221225979/index.m3u8
+#EXTINF:-1 group-title="移动线路",未知新闻综合
+http://39.134.66.110/PLTV/88888888/224/3221225993/index.m3u8
+#EXTINF:-1 group-title="移动线路",黑龙江农业科教
+http://39.134.66.110/PLTV/88888888/224/3221225994/index.m3u8
+#EXTINF:-1 group-title="移动线路",未知新闻综合
+http://39.134.66.110/PLTV/88888888/224/3221226035/index.m3u8
+#EXTINF:-1 group-title="移动线路",未知新闻综合
+http://39.134.66.110/PLTV/88888888/224/3221226037/index.m3u8
+#EXTINF:-1 group-title="移动线路",未知新闻综合
+http://39.134.66.110/PLTV/88888888/224/3221226041/index.m3u8
+#EXTINF:-1 group-title="移动线路",未知新闻综合
+http://39.134.66.110/PLTV/88888888/224/3221226043/index.m3u8
+#EXTINF:-1 group-title="移动线路",未知新闻综合
+http://39.134.66.110/PLTV/88888888/224/3221226047/index.m3u8
+#EXTINF:-1 group-title="移动线路",未知公共
+http://39.134.66.110/PLTV/88888888/224/3221226050/index.m3u8
+#EXTINF:-1 group-title="移动线路",未知经济法治
+http://39.134.66.110/PLTV/88888888/224/3221226058/index.m3u8
+#EXTINF:-1 group-title="移动线路",未知新闻综合
+http://39.134.66.110/PLTV/88888888/224/3221226062/index.m3u8
+#EXTINF:-1 group-title="移动线路",未知新闻综合
+http://39.134.66.110/PLTV/88888888/224/3221226066/index.m3u8
+
 #EXTINF:-1 group-title="",广东体育
 http://gxfrg007.8800.org:8282/tsfile/live/1063_1.m3u8
