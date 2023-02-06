@@ -1,7 +1,55 @@
 #EXTM3U
+#EXTINF:-1 group-title="",NewTV超级电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+
+#EXTINF:-1 group-title="移动线路",NewTV海外剧场
+http://39.134.66.110/PLTV/88888888/224/3221225521/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV古装剧场
+http://39.134.66.110/PLTV/88888888/224/3221225524/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV金牌综艺
+http://39.134.66.110/PLTV/88888888/224/3221225525/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV精品体育
+http://39.134.66.110/PLTV/88888888/224/3221225526/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV爱情喜剧
+http://39.134.66.110/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV军事评论
+http://39.134.66.110/PLTV/88888888/224/3221225535/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV精品大剧
+http://39.134.66.110/PLTV/88888888/224/3221225536/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV潮妈辣婆
+http://39.134.66.110/PLTV/88888888/224/3221225542/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV精品纪录
+http://39.134.66.110/PLTV/88888888/224/3221225545/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV武搏世界
+http://39.134.66.110/PLTV/88888888/224/3221225547/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV农业致富
+http://39.134.66.110/PLTV/88888888/224/3221225552/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV惊悚悬疑
+http://39.134.66.110/PLTV/88888888/224/3221225553/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV动作电影
+http://39.134.66.110/PLTV/88888888/224/3221225555/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV军旅剧场
+http://39.134.66.110/PLTV/88888888/224/3221225560/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV中国功夫
+http://39.134.66.110/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV超级体育
+http://39.134.66.110/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV超级电视剧
+http://39.134.66.110/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV超级综艺
+http://39.134.66.110/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV超级电影
+http://39.134.66.110/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV东北热剧
+http://39.134.66.110/PLTV/88888888/224/3221225679/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV欢乐剧场
+http://39.134.66.110/PLTV/88888888/224/3221225682/index.m3u8
+#EXTINF:-1 group-title="移动线路",NewTV精品萌宠
+http://39.134.66.110/PLTV/88888888/224/3221226051/index.m3u8
+
 #EXTINF:-1 group-title="",周星驰
 http://121.51.249.6/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="",周星驰-粤语
+#EXTINF:-1 group-title="",周星驰粤语经典
 http://121.51.249.6/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="",吴孟达
 http://121.51.249.6/tx.hls.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.m3u8
@@ -45,11 +93,11 @@ http://121.51.249.6/tx.hls.huya.com/src/1524439840-1524439840-654741925751947264
 http://121.51.249.6/tx.hls.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="",古装武侠
 http://121.51.249.6/tx.hls.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="",香港女神系列
+#EXTINF:-1 group-title="",香港女神
 http://121.51.249.6/tx.hls.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="",王晶导演
 http://121.51.249.6/tx.hls.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="",历年贺岁大片
 http://121.51.249.6/tx.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="",金庸武侠系列
+#EXTINF:-1 group-title="",金庸武侠
 http://121.51.249.6/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.m3u8
