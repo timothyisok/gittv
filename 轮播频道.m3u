@@ -47,57 +47,113 @@ http://39.134.66.110/PLTV/88888888/224/3221225682/index.m3u8
 #EXTINF:-1 group-title="移动线路",NewTV精品萌宠
 http://39.134.66.110/PLTV/88888888/224/3221226051/index.m3u8
 
-#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",【周星星】星爷经典不间断
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",周星星·星爷经典不间断
 http://121.51.249.6/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",周星驰粤语经典
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",周星星粤语经典版
 http://121.51.249.6/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",吴孟达
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",黄金配角·达叔永远的经典
 http://121.51.249.6/tx.hls.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",林正英
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",英叔护体·林正英搞笑僵尸系列
 http://121.51.249.6/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",沈腾
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",虎牙影院·沈腾经典片放映
 http://121.51.249.6/tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",甄子丹
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",甄子丹·我要打十个
 http://121.51.249.6/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",成龙
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",十二生肖·成龙快乐屋
+http://121.51.249.6/tx.hls.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",成龙经典武打动作片
 http://121.51.249.6/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",李连杰
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",李连杰系列·武打高产王
 http://121.51.249.6/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",周润发
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",周润发电影·小马哥归来	
 http://121.51.249.6/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",刘德华
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",刘德华电影·经典系列
 http://121.51.249.6/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",洪金宝
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",洪金宝·童年回忆杀
 http://121.51.249.6/tx.hls.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",黄渤
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",永远怀念“黄药师”曾江
+http://121.51.249.6/tx.hls.huya.com/src/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",千面影帝梁家辉
 http://121.51.249.6/tx.hls.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",刘家辉
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",渤哥塑料英文笑喷我
+http://121.51.249.6/tx.hls.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",不挤电影院也能笑着过春节
 http://121.51.249.6/tx.hls.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",咏春系列
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",悲剧结局的悲情古装片
 http://121.51.249.6/tx.hls.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",黑帮系列
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",黑帮大片·山鸡哥重现江湖	
 http://121.51.249.6/tx.hls.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",古墓系列
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",古墓系列·去冒险吧
 http://121.51.249.6/tx.hls.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",赛车系列
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",赛车电影·秋名山我来了
 http://121.51.249.6/tx.hls.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",警匪系列
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",那些年的香gang贺岁片
 http://121.51.249.6/tx.hls.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",中国功夫
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",十一推荐·动作要快，姿势要帅
+http://121.51.249.6/tx.hls.huya.com/src/1524434083-1524434083-6547394531392749568-3048991622-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",超经典喜剧童年回忆
+http://121.51.249.6/tx.hls.huya.com/src/1449597183-1449597183-6225972493358727168-2847687548-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",情人节·港片教你追女仔
+http://121.51.249.6/tx.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",搞笑喜剧·最佳拍档 开心鬼系列
+http://121.51.249.6/tx.hls.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",够劲，就是中国功夫
 http://121.51.249.6/tx.hls.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",喜剧系列
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",喜剧专场·我们一起找乐子
 http://121.51.249.6/tx.hls.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",动作大片
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",动作电影来啦
 http://121.51.249.6/tx.hls.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",玄幻系列
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",国产悬疑精选·智商在线
+http://121.51.249.6/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",玄幻专场·国产特效大制作
 http://121.51.249.6/tx.hls.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",古装武侠
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",手心直冒汗！惊心动魄的灾难片
+http://121.51.249.6/tx.hls.huya.com/src/1524439836-1524439836-6547419240339603456-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",经典港剧笑嘻嘻
+http://121.51.249.6/tx.hls.huya.com/src/1423787870-1423787870-6115122338091499520-2847699196-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",镖行天下·镖在人在
+http://121.51.249.6/tx.hls.huya.com/src/1449574253-1449574253-6225874009758629888-2847699210-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",快意江湖·金庸的武侠世界
 http://121.51.249.6/tx.hls.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",香港女神
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",永远的经典女神，无法超越啊
+http://121.51.249.6/tx.hls.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",港剧最佳拍档·许冠英合集
+http://121.51.249.6/tx.hls.huya.com/src/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",许氏三杰·快来 就差你了
+http://121.51.249.6/tx.hls.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",《jiang夜》终将至，花开彼岸天
+http://121.51.249.6/tx.hls.huya.com/src/1449580358-1449580358-6225900230533971968-2847687552-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",女神系列·邱淑贞 王祖贤 张曼玉	
 http://121.51.249.6/tx.hls.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",王晶导演
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",警匪·不会演戏的警察不是好卧底
+http://121.51.249.6/tx.hls.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",玄幻剧场·体验另一种生活
+http://121.51.249.6/tx.hls.huya.com/src/1394575536-1394575536-5989656318921670656-2789274528-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",黑帮斗争·黑与白的对峙，情与义的泯灭
+http://121.51.249.6/tx.hls.huya.com/src/1394575541-1394575541-5989656340396507136-2789274538-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",这些都是高智商的罪犯
+http://121.51.249.6/tx.hls.huya.com/src/1423787865-1423787865-6115122316616663040-2847699186-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",看完你也学不会系列
+http://121.51.249.6/tx.hls.huya.com/src/1449698763-1449698763-6226408776136654848-2847699120-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",王晶·港风导演代表
 http://121.51.249.6/tx.hls.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",历年贺岁大片
-http://121.51.249.6/tx.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="虎牙直播",金庸武侠
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",五福星·每天都要快乐哦
+http://121.51.249.6/tx.hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",经典之作·金庸群侠篇电影
 http://121.51.249.6/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",搞笑恐怖类·弹幕护体
+http://121.51.249.6/tx.hls.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",世界柸·没比赛也能看电影
+http://121.51.249.6/tx.hls.huya.com/src/1449580415-1449580415-6225900475347107840-2847699190-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",法外狂徒张三李四
+http://121.51.249.6/tx.hls.huya.com/src/28302995-28302995-121560437903851520-3048959616-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",浮生没有若梦的直播间
+http://121.51.249.6/tx.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",简小熙的直播间
+http://121.51.249.6/tx.hls.huya.com/src/1394565207-1394565207-5989611956204470272-2789253870-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",飙车的老司机的直播间
+http://121.51.249.6/tx.hls.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",牙缝多了根青菜的直播间
+http://121.51.249.6/tx.hls.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="虎牙直播" tvg-logo="https://a.msstatic.com/huya/main3/static/img/logo.png",我的宝贝baby的直播间
+http://121.51.249.6/tx.hls.huya.com/src/1449567112-1449567112-6225843339397169152-2847687536-10057-A-0-1.m3u8
