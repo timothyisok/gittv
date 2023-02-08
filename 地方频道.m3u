@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="",上海纪实
+#EXTINF:-1,上海纪实
 http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
-#EXTINF:-1 group-title="",北京纪实
+#EXTINF:-1,北京纪实
 http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
-#EXTINF:-1 group-title="",金鹰卡通
+#EXTINF:-1,金鹰卡通
 http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
 
 #EXTINF:-1 group-title="移动线路",黑莓动画
@@ -71,5 +71,5 @@ http://39.134.66.110/PLTV/88888888/224/3221226062/index.m3u8
 #EXTINF:-1 group-title="移动线路",未知新闻综合
 http://39.134.66.110/PLTV/88888888/224/3221226066/index.m3u8
 
-#EXTINF:-1 group-title="",广东体育
+#EXTINF:-1,广东体育
 http://gxfrg007.8800.org:8282/tsfile/live/1063_1.m3u8
