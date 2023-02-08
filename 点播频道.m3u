@@ -1,7 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://p432.ssl.qhimgs4.com/t012b520072520816a0.jpg",机器人总动员
+#EXTINF:-1 group-title="HDmoli" tvg-logo="https://p432.ssl.qhimgs4.com/t012b520072520816a0.jpg",机器人总动员
 https://weibo.bh3.com/upload/2023/01/29/0/0awiuq08g5f24y0ykbbiouzw1snh7rfw_7907151396815074954.mp4
-#EXTINF:-1 tvg-logo="https://p432.ssl.qhimgs4.com/t01195d47647b1e2c61.jpg",巴比伦
+#EXTINF:-1 group-title="HDmoli" tvg-logo="https://p432.ssl.qhimgs4.com/t01195d47647b1e2c61.jpg",巴比伦
 https://m3u8.qwertwe.top/cache/83a30b39a9098cb65dadb9ad894fb12e.m3u8?auth_key=1675866291-0-0-2fcce044ca4b86c8f8ffef95421a4dd1
-#EXTINF:-1 tvg-logo="https://p432.ssl.qhimgs4.com/t01052e0de86426470f.jpg",梅根
+#EXTINF:-1 group-title="HDmoli" tvg-logo="https://p432.ssl.qhimgs4.com/t01052e0de86426470f.jpg",梅根
 https://m3u8.qwertwe.top/cache/1c17f76baeb6fdfcaeb741e10ed909fd.m3u8?auth_key=1675866567-0-0-f94bf9f89e252d5f5ca79d0c66052b8b
+
+#EXTINF:-1 group-title="IMAXW" tvg-logo="https://vip-9-cdn-cn.4kya.com/cdn-9/k/upload/vod/20221126-9/9580c48873cbdef887d4649824519766.jpg",坏蛋联盟
+https://vip.ffzy-play7.com/20221125/6914_8ea8a72f/2000k/hls/index.m3u8
+#EXTINF:-1 group-title="IMAXW" tvg-logo="https://imaxw.com/upload/vod/20221206-1/e2ddd29ce996bb0070029669dc6d5d75.jpg",小黄人大眼萌：神偷奶爸前传
+https://vip.ffzy-play7.com/20230114/11414_43b04a2c/2000k/hls/mixed.m3u8
