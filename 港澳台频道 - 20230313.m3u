@@ -36,3 +36,6 @@ http://120.84.96.89:808/hls/33/index.m3u8
 http://120.84.96.89:808/hls/34/index.m3u8
 #EXTINF:-1 group-title="台湾",龙祥时代电影台
 http://120.84.96.89:808/hls/35/index.m3u8
+
+#EXTINF:-1 group-title="香港",TVB星河台
+http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
