@@ -1,53 +1,48 @@
 #EXTM3U
-#EXTINF:-1,CNN
+#EXTINF:-1 group-title="美国",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 
-#EXTINF:-1,NHK BS1
+#EXTINF:-1 group-title="日本",NHK BS1
 http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
-#EXTINF:-1,BS-TBS
+#EXTINF:-1 group-title="日本",BS-TBS
 http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
-#EXTINF:-1,NHK E
+#EXTINF:-1 group-title="日本",NHK E
 http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
-#EXTINF:-1,TBS
+#EXTINF:-1 group-title="日本",TBS
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-#EXTINF:-1,TV Tokyo
+#EXTINF:-1 group-title="日本",TV Tokyo
 http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
-#EXTINF:-1,Tokyo MX1
+#EXTINF:-1 group-title="日本",Tokyo MX1
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
 
-#EXTINF:-1,Tokyo MX1
+#EXTINF:-1 group-title="日本",Tokyo MX1
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
-#EXTINF:-1,Tokyo MX2
+#EXTINF:-1 group-title="日本",Tokyo MX2
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 
-#EXTINF:-1,NHK World Premium
+#EXTINF:-1 group-title="日本",NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
-#EXTINF:-1,NHK World Japan
+#EXTINF:-1 group-title="日本",NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-1,TF1
-https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
-
-#EXTINF:-1,DW Deutsch
+#EXTINF:-1 group-title="德国",DW Deutsch
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-#EXTINF:-1,DW Arabic
+#EXTINF:-1 group-title="德国",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1,NHK World Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1,NHK World Japan
+#EXTINF:-1 group-title="日本",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1,CBS
+#EXTINF:-1 group-title="美国",CBS
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnsac_2/master.m3u8
 
-#EXTINF:-1,EBS 1
+#EXTINF:-1 group-title="韩国",EBS 1
 http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1,EBS 2
+#EXTINF:-1 group-title="韩国",EBS 2
 http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,EBS Kids
+#EXTINF:-1 group-title="韩国",EBS Kids
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
 
-#EXTINF:-1,CNA
+#EXTINF:-1 group-title="新加坡",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1,ANTV HD
+#EXTINF:-1 group-title="越南",ANTV
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
