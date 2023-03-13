@@ -1,11 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2876847447.jpg",吉尔莫·德尔·托罗的匹诺曹 (2022)
+https://sf9-dycdn-tos.pstatp.com/obj/tos-cn-i-8gu37r9deh/c97632ddc9ab41ffa0d8cd4caadf9e13?filename=1.mp4
+
+#EXTINF:-1 tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2877522569.jpg",小黄人大眼萌：神偷奶爸前传 (2022)
+https://vip.ffzy-play7.com/20230114/11414_43b04a2c/2000k/hls/mixed.m3u8
+
 #EXTINF:-1 tvg-logo="https://img2.doubanio.com/view/photo/l/public/p2873950053.jpg",子弹列车 (2022)
 https://vip.lz-cdn10.com/20220926/2595_1e62c923/1200k/hls/mixed.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.doubanio.com/view/photo/l/public/p2870318303.jpg",坏蛋联盟 (2022)
 https://vip.ffzy-play7.com/20221125/6914_8ea8a72f/2000k/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2877522569.jpg",小黄人大眼萌：神偷奶爸前传 (2022)
-https://vip.ffzy-play7.com/20230114/11414_43b04a2c/2000k/hls/mixed.m3u8
-
-#EXTINF:-1 tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2876847447.jpg",吉尔莫·德尔·托罗的匹诺曹 (2022)
-https://sf9-dycdn-tos.pstatp.com/obj/tos-cn-i-8gu37r9deh/c97632ddc9ab41ffa0d8cd4caadf9e13?filename=1.mp4
